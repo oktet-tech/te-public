@@ -26,6 +26,7 @@ tests = [
     'resolvepath',
     'scalar_types',
     'scandir',
+    'steps',
     'str_compare_versions',
     'string',
     'string_replace',
